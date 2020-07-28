@@ -14,3 +14,6 @@ We use a flowchart to spell out the logic behind a program before ever starting 
 # Problem Statement:
 Q. A restaurant gives a discount of 10% if the total customer bill including 5% tax is greater than or equal to Rs. 1000. Write an algorithm and also create a flowchart for the problem statement mentioned above.
    - Note: The customer bill needs to be entered by the user and total bill including 5% tax needs to be calculated in the program. If the customer is eligible for the discount, then calculate the net payable amount and print it
+
+[Algorithm]()
+[FlowChart]()
