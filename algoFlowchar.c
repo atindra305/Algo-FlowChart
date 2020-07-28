@@ -23,7 +23,7 @@ int main(){
 		printf(":-( Better Luck Next Time.\n");
 		pay = totalBill;
 	}
-	usleep(200000);
+	usleep(2000000);  // show results after 2 sec or 2000000 milliseconds
 	printf("You have to pay: %.2lf", pay);
 
 	return 0;
