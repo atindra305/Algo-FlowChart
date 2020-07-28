@@ -16,5 +16,6 @@ Q. A restaurant gives a discount of 10% if the total customer bill including 5% 
    - Note: The customer bill needs to be entered by the user and total bill including 5% tax needs to be calculated in the program. If the customer is eligible for the discount, then calculate the net payable amount and print it
 
 Ans: Refer to the below Algorithms and Flowchart to this Problem Statement
+- [Code](https://github.com/atindra305/Algo-FlowChart/blob/master/algoFlowchar.c)
 - [Algorithm](https://github.com/atindra305/Algo-FlowChart/blob/master/Algorithm.jpeg)
 - [FlowChart](https://github.com/atindra305/Algo-FlowChart/blob/master/FlowChart.jpeg)
